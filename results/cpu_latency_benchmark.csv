@@ -1,0 +1,7 @@
+model,runs,mean_ms,median_ms,p95_ms
+rule_based,120,0.039,0.037,0.056
+tfidf_logreg,120,1.273,1.26,1.353
+feedforward_fasttext,120,0.111,0.107,0.136
+multilingual_bert,120,27.176,26.864,33.372
+distilled_student,120,13.498,13.254,16.717
+distilled_student_int8,120,15.773,15.232,19.111

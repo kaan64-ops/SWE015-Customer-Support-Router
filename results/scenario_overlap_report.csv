@@ -1,0 +1,301 @@
+﻿scenario_id,scenario_description,seed_text,seed_language,seed_group_id,similarity
+repair_request_002,Schedule dishwasher repair,Can I schedule a dishwasher repair?,en,support_repair_request_002,0.852
+technical_issue_001,Washing machine does not start,My washing machine won't start.,en,support_technical_issue_001,0.82
+refund_request_001,Request refund for a vacuum cleaner,I want a refund for my vacuum cleaner.,en,support_refund_request_001,0.767
+delivery_question_002,Track a refrigerator order,Where is my refrigerator order?,en,support_delivery_question_002,0.737
+repair_request_003,Request an oven service appointment,Please arrange a service appointment.,en,support_repair_request_003,0.722
+technical_issue_002,Dishwasher does not drain,My dishwasher is not draining water.,en,support_technical_issue_002,0.721
+refund_request_002,Return a dishwasher,How can I return my dishwasher?,en,support_refund_request_002,0.72
+delivery_question_001,Ask when a dishwasher will arrive,When will my dishwasher arrive?,en,support_delivery_question_001,0.719
+technical_issue_003,Refrigerator does not cool,My refrigerator is not cooling properly.,en,support_technical_issue_003,0.697
+warranty_question_002,Ask about refrigerator warranty duration,How long is the refrigerator warranty?,en,support_warranty_question_002,0.641
+technical_issue_007,Dishwasher leaks water,My dishwasher is not draining water.,en,support_technical_issue_002,0.621
+delivery_question_003,Check oven delivery status,Can I track my oven delivery?,en,support_delivery_question_003,0.618
+warranty_question_001,Check washing machine warranty validity,Is my washing machine still under warranty?,en,support_warranty_question_001,0.61
+warranty_question_009,Ask about warranty transfer after resale,Does the warranty cover motor failure?,en,support_warranty_question_003,0.538
+repair_request_005,Reschedule a technician visit,I need a technician to repair my oven.,en,support_repair_request_001,0.537
+delivery_question_005,Change the delivery address,Can I track my oven delivery?,en,support_delivery_question_003,0.536
+technical_issue_006,Washing machine makes loud noises,My washing machine won't start.,en,support_technical_issue_001,0.531
+technical_issue_009,Microwave display is not working,My dishwasher is not draining water.,en,support_technical_issue_002,0.529
+refund_request_003,Ask for refund after order cancellation,Please refund my cancelled order.,en,support_refund_request_003,0.528
+technical_issue_008,Refrigerator makes unusual sounds,My refrigerator is not cooling properly.,en,support_technical_issue_003,0.521
+repair_request_006,Cancel an existing repair appointment,Can I schedule a dishwasher repair?,en,support_repair_request_002,0.5
+refund_request_004,Request refund for a damaged appliance,I want a refund for my vacuum cleaner.,en,support_refund_request_001,0.5
+warranty_question_003,Check whether motor damage is covered,Does the warranty cover motor failure?,en,support_warranty_question_003,0.48
+repair_request_006,Cancel an existing repair appointment,I need a technician to repair my oven.,en,support_repair_request_001,0.48
+repair_request_008,Ask about technician availability,I need a technician to repair my oven.,en,support_repair_request_001,0.479
+warranty_question_007,Check warranty after a previous repair,Does the warranty cover motor failure?,en,support_warranty_question_003,0.474
+delivery_question_007,Ask about delivery charges,Can I track my oven delivery?,en,support_delivery_question_003,0.473
+warranty_question_004,Ask about extended warranty options,Does the warranty cover motor failure?,en,support_warranty_question_003,0.466
+delivery_question_010,Ask about international delivery,Can I track my oven delivery?,en,support_delivery_question_003,0.459
+warranty_question_001,Check washing machine warranty validity,Çamaşır makinemin garantisi devam ediyor mu?,tr,support_warranty_question_001,0.458
+refund_request_005,Ask about refund processing time,I want a refund for my vacuum cleaner.,en,support_refund_request_001,0.457
+refund_request_010,Request refund after repeated product failures,Please refund my cancelled order.,en,support_refund_request_003,0.456
+technical_issue_010,Dryer stops during a cycle,My dishwasher is not draining water.,en,support_technical_issue_002,0.452
+warranty_question_005,Request warranty registration,Does the warranty cover motor failure?,en,support_warranty_question_003,0.448
+technical_issue_009,Microwave display is not working,My refrigerator is not cooling properly.,en,support_technical_issue_003,0.444
+delivery_question_006,Reschedule a delivery,Can I track my oven delivery?,en,support_delivery_question_003,0.44
+repair_request_005,Reschedule a technician visit,Can I schedule a dishwasher repair?,en,support_repair_request_002,0.438
+warranty_question_004,Ask about extended warranty options,Is my washing machine still under warranty?,en,support_warranty_question_001,0.436
+repair_request_006,Cancel an existing repair appointment,Please arrange a service appointment.,en,support_repair_request_003,0.432
+refund_request_005,Ask about refund processing time,Please refund my cancelled order.,en,support_refund_request_003,0.431
+repair_request_007,Request urgent repair service,Please arrange a service appointment.,en,support_repair_request_003,0.424
+refund_request_004,Request refund for a damaged appliance,Please refund my cancelled order.,en,support_refund_request_003,0.423
+repair_request_008,Ask about technician availability,Bulaşık makinesi için tamir randevusu alabilir miyim?,tr,support_repair_request_002,0.419
+repair_request_004,Arrange refrigerator repair,Can I schedule a dishwasher repair?,en,support_repair_request_002,0.419
+delivery_question_004,Report delayed appliance delivery,Can I track my oven delivery?,en,support_delivery_question_003,0.419
+repair_request_007,Request urgent repair service,I need a technician to repair my oven.,en,support_repair_request_001,0.418
+repair_request_010,Follow up on an existing repair request,I need a technician to repair my oven.,en,support_repair_request_001,0.416
+refund_request_001,Request refund for a vacuum cleaner,Please refund my cancelled order.,en,support_refund_request_003,0.412
+warranty_question_002,Ask about refrigerator warranty duration,Does the warranty cover motor failure?,en,support_warranty_question_003,0.41
+warranty_question_006,Ask whether accidental damage is covered,Does the warranty cover motor failure?,en,support_warranty_question_003,0.41
+warranty_question_008,Request a copy of warranty documentation,Does the warranty cover motor failure?,en,support_warranty_question_003,0.41
+technical_issue_004,Oven does not heat,My dishwasher is not draining water.,en,support_technical_issue_002,0.407
+delivery_question_009,Confirm a delivery time window,Can I track my oven delivery?,en,support_delivery_question_003,0.407
+refund_request_006,Report a missing refund,How can I return my dishwasher?,en,support_refund_request_002,0.407
+repair_request_004,Arrange refrigerator repair,Please arrange a service appointment.,en,support_repair_request_003,0.406
+repair_request_004,Arrange refrigerator repair,I need a technician to repair my oven.,en,support_repair_request_001,0.4
+technical_issue_005,Vacuum cleaner loses suction,Buzdolabım yeterince soğutmuyor.,tr,support_technical_issue_003,0.4
+delivery_question_002,Track a refrigerator order,Can I track my oven delivery?,en,support_delivery_question_003,0.4
+technical_issue_001,Washing machine does not start,My dishwasher is not draining water.,en,support_technical_issue_002,0.394
+technical_issue_002,Dishwasher does not drain,My washing machine won't start.,en,support_technical_issue_001,0.393
+warranty_question_001,Check washing machine warranty validity,How long is the refrigerator warranty?,en,support_warranty_question_002,0.39
+warranty_question_001,Check washing machine warranty validity,Does the warranty cover motor failure?,en,support_warranty_question_003,0.39
+warranty_question_005,Request warranty registration,How long is the refrigerator warranty?,en,support_warranty_question_002,0.388
+repair_request_005,Reschedule a technician visit,Fırınım için teknisyen istiyorum.,tr,support_repair_request_001,0.387
+delivery_question_001,Ask when a dishwasher will arrive,Can I track my oven delivery?,en,support_delivery_question_003,0.387
+warranty_question_002,Ask about refrigerator warranty duration,Is my washing machine still under warranty?,en,support_warranty_question_001,0.386
+warranty_question_010,Check coverage for replacement parts,Does the warranty cover motor failure?,en,support_warranty_question_003,0.378
+refund_request_007,Request refund to original payment method,Please refund my cancelled order.,en,support_refund_request_003,0.378
+technical_issue_008,Refrigerator makes unusual sounds,Bulaşık makinem su boşaltmıyor.,tr,support_technical_issue_002,0.375
+warranty_question_005,Request warranty registration,Motor arızası garanti kapsamında mı?,tr,support_warranty_question_003,0.369
+technical_issue_002,Dishwasher does not drain,My refrigerator is not cooling properly.,en,support_technical_issue_003,0.369
+warranty_question_002,Ask about refrigerator warranty duration,Motor arızası garanti kapsamında mı?,tr,support_warranty_question_003,0.368
+technical_issue_006,Washing machine makes loud noises,Çamaşır makinem çalışmıyor.,tr,support_technical_issue_001,0.367
+technical_issue_008,Refrigerator makes unusual sounds,Çamaşır makinem çalışmıyor.,tr,support_technical_issue_001,0.367
+repair_request_001,Book a washing machine technician,I need a technician to repair my oven.,en,support_repair_request_001,0.366
+warranty_question_005,Request warranty registration,Buzdolabının garanti süresi ne kadar?,tr,support_warranty_question_002,0.364
+technical_issue_010,Dryer stops during a cycle,My refrigerator is not cooling properly.,en,support_technical_issue_003,0.364
+warranty_question_009,Ask about warranty transfer after resale,Buzdolabının garanti süresi ne kadar?,tr,support_warranty_question_002,0.364
+technical_issue_001,Washing machine does not start,Bulaşık makinem su boşaltmıyor.,tr,support_technical_issue_002,0.361
+warranty_question_008,Request a copy of warranty documentation,How long is the refrigerator warranty?,en,support_warranty_question_002,0.359
+delivery_question_008,Report missing items from a shipment,When will my dishwasher arrive?,en,support_delivery_question_001,0.358
+refund_request_009,Ask about partial refunds,How can I return my dishwasher?,en,support_refund_request_002,0.357
+refund_request_006,Report a missing refund,Please refund my cancelled order.,en,support_refund_request_003,0.357
+refund_request_007,Request refund to original payment method,I want a refund for my vacuum cleaner.,en,support_refund_request_001,0.354
+repair_request_009,Request an appliance inspection visit,Please arrange a service appointment.,en,support_repair_request_003,0.351
+technical_issue_001,Washing machine does not start,Çamaşır makinem çalışmıyor.,tr,support_technical_issue_001,0.351
+repair_request_010,Follow up on an existing repair request,Can I schedule a dishwasher repair?,en,support_repair_request_002,0.351
+warranty_question_010,Check coverage for replacement parts,How long is the refrigerator warranty?,en,support_warranty_question_002,0.351
+delivery_question_010,Ask about international delivery,Where is my refrigerator order?,en,support_delivery_question_002,0.349
+delivery_question_010,Ask about international delivery,Fırınımın teslimatını takip edebilir miyim?,tr,support_delivery_question_003,0.347
+delivery_question_006,Reschedule a delivery,Where is my refrigerator order?,en,support_delivery_question_002,0.346
+delivery_question_006,Reschedule a delivery,When will my dishwasher arrive?,en,support_delivery_question_001,0.346
+delivery_question_001,Ask when a dishwasher will arrive,Where is my refrigerator order?,en,support_delivery_question_002,0.344
+repair_request_008,Ask about technician availability,Please arrange a service appointment.,en,support_repair_request_003,0.343
+technical_issue_007,Dishwasher leaks water,Bulaşık makinem su boşaltmıyor.,tr,support_technical_issue_002,0.34
+technical_issue_007,Dishwasher leaks water,My washing machine won't start.,en,support_technical_issue_001,0.34
+technical_issue_005,Vacuum cleaner loses suction,Bulaşık makinem su boşaltmıyor.,tr,support_technical_issue_002,0.339
+refund_request_003,Ask for refund after order cancellation,I want a refund for my vacuum cleaner.,en,support_refund_request_001,0.338
+repair_request_004,Arrange refrigerator repair,Servis randevusu oluşturmak istiyorum.,tr,support_repair_request_003,0.338
+warranty_question_009,Ask about warranty transfer after resale,Is my washing machine still under warranty?,en,support_warranty_question_001,0.337
+repair_request_010,Follow up on an existing repair request,Fırınım için teknisyen istiyorum.,tr,support_repair_request_001,0.333
+repair_request_008,Ask about technician availability,Fırınım için teknisyen istiyorum.,tr,support_repair_request_001,0.333
+warranty_question_005,Request warranty registration,Is my washing machine still under warranty?,en,support_warranty_question_001,0.333
+repair_request_005,Reschedule a technician visit,Please arrange a service appointment.,en,support_repair_request_003,0.333
+repair_request_002,Schedule dishwasher repair,Bulaşık makinesi için tamir randevusu alabilir miyim?,tr,support_repair_request_002,0.329
+refund_request_006,Report a missing refund,I want a refund for my vacuum cleaner.,en,support_refund_request_001,0.328
+refund_request_008,Return an unopened appliance,Please refund my cancelled order.,en,support_refund_request_003,0.328
+delivery_question_007,Ask about delivery charges,Bulaşık makinem ne zaman teslim edilecek?,tr,support_delivery_question_001,0.328
+technical_issue_007,Dishwasher leaks water,Çamaşır makinem çalışmıyor.,tr,support_technical_issue_001,0.327
+technical_issue_003,Refrigerator does not cool,My dishwasher is not draining water.,en,support_technical_issue_002,0.323
+warranty_question_001,Check washing machine warranty validity,Motor arızası garanti kapsamında mı?,tr,support_warranty_question_003,0.32
+warranty_question_003,Check whether motor damage is covered,How long is the refrigerator warranty?,en,support_warranty_question_002,0.32
+warranty_question_007,Check warranty after a previous repair,Buzdolabının garanti süresi ne kadar?,tr,support_warranty_question_002,0.32
+refund_request_009,Ask about partial refunds,I want a refund for my vacuum cleaner.,en,support_refund_request_001,0.317
+technical_issue_010,Dryer stops during a cycle,My washing machine won't start.,en,support_technical_issue_001,0.316
+delivery_question_003,Check oven delivery status,When will my dishwasher arrive?,en,support_delivery_question_001,0.316
+warranty_question_009,Ask about warranty transfer after resale,Motor arızası garanti kapsamında mı?,tr,support_warranty_question_003,0.316
+warranty_question_008,Request a copy of warranty documentation,Motor arızası garanti kapsamında mı?,tr,support_warranty_question_003,0.316
+repair_request_006,Cancel an existing repair appointment,Fırınım için teknisyen istiyorum.,tr,support_repair_request_001,0.314
+delivery_question_005,Change the delivery address,Fırınımın teslimatını takip edebilir miyim?,tr,support_delivery_question_003,0.314
+repair_request_003,Request an oven service appointment,Can I schedule a dishwasher repair?,en,support_repair_request_002,0.314
+warranty_question_008,Request a copy of warranty documentation,Is my washing machine still under warranty?,en,support_warranty_question_001,0.313
+delivery_question_008,Report missing items from a shipment,Bulaşık makinem ne zaman teslim edilecek?,tr,support_delivery_question_001,0.312
+repair_request_002,Schedule dishwasher repair,Servis randevusu oluşturmak istiyorum.,tr,support_repair_request_003,0.312
+repair_request_002,Schedule dishwasher repair,I need a technician to repair my oven.,en,support_repair_request_001,0.312
+technical_issue_006,Washing machine makes loud noises,Bulaşık makinem su boşaltmıyor.,tr,support_technical_issue_002,0.312
+technical_issue_008,Refrigerator makes unusual sounds,My washing machine won't start.,en,support_technical_issue_001,0.312
+delivery_question_006,Reschedule a delivery,Fırınımın teslimatını takip edebilir miyim?,tr,support_delivery_question_003,0.312
+warranty_question_002,Ask about refrigerator warranty duration,Buzdolabının garanti süresi ne kadar?,tr,support_warranty_question_002,0.312
+repair_request_006,Cancel an existing repair appointment,Bulaşık makinesi için tamir randevusu alabilir miyim?,tr,support_repair_request_002,0.311
+warranty_question_004,Ask about extended warranty options,Motor arızası garanti kapsamında mı?,tr,support_warranty_question_003,0.31
+refund_request_009,Ask about partial refunds,Please refund my cancelled order.,en,support_refund_request_003,0.31
+delivery_question_009,Confirm a delivery time window,Bulaşık makinem ne zaman teslim edilecek?,tr,support_delivery_question_001,0.31
+technical_issue_004,Oven does not heat,My refrigerator is not cooling properly.,en,support_technical_issue_003,0.31
+technical_issue_010,Dryer stops during a cycle,Buzdolabım yeterince soğutmuyor.,tr,support_technical_issue_003,0.31
+warranty_question_010,Check coverage for replacement parts,Motor arızası garanti kapsamında mı?,tr,support_warranty_question_003,0.306
+warranty_question_004,Ask about extended warranty options,Buzdolabının garanti süresi ne kadar?,tr,support_warranty_question_002,0.306
+refund_request_008,Return an unopened appliance,How can I return my dishwasher?,en,support_refund_request_002,0.305
+technical_issue_005,Vacuum cleaner loses suction,My washing machine won't start.,en,support_technical_issue_001,0.305
+delivery_question_010,Ask about international delivery,Buzdolabı siparişim nerede?,tr,support_delivery_question_002,0.305
+warranty_question_010,Check coverage for replacement parts,Is my washing machine still under warranty?,en,support_warranty_question_001,0.304
+repair_request_001,Book a washing machine technician,Bulaşık makinesi için tamir randevusu alabilir miyim?,tr,support_repair_request_002,0.302
+warranty_question_004,Ask about extended warranty options,How long is the refrigerator warranty?,en,support_warranty_question_002,0.301
+warranty_question_005,Request warranty registration,Çamaşır makinemin garantisi devam ediyor mu?,tr,support_warranty_question_001,0.301
+delivery_question_010,Ask about international delivery,Bulaşık makinem ne zaman teslim edilecek?,tr,support_delivery_question_001,0.301
+refund_request_005,Ask about refund processing time,Bulaşık makinesini nasıl iade edebilirim?,tr,support_refund_request_002,0.301
+delivery_question_002,Track a refrigerator order,Bulaşık makinem ne zaman teslim edilecek?,tr,support_delivery_question_001,0.299
+delivery_question_001,Ask when a dishwasher will arrive,Bulaşık makinem ne zaman teslim edilecek?,tr,support_delivery_question_001,0.297
+warranty_question_007,Check warranty after a previous repair,Motor arızası garanti kapsamında mı?,tr,support_warranty_question_003,0.297
+warranty_question_007,Check warranty after a previous repair,Is my washing machine still under warranty?,en,support_warranty_question_001,0.296
+refund_request_005,Ask about refund processing time,İptal ettiğim siparişin ücretini geri istiyorum.,tr,support_refund_request_003,0.296
+delivery_question_005,Change the delivery address,Bulaşık makinem ne zaman teslim edilecek?,tr,support_delivery_question_001,0.294
+repair_request_003,Request an oven service appointment,Fırınım için teknisyen istiyorum.,tr,support_repair_request_001,0.294
+repair_request_006,Cancel an existing repair appointment,Servis randevusu oluşturmak istiyorum.,tr,support_repair_request_003,0.293
+refund_request_004,Request refund for a damaged appliance,How can I return my dishwasher?,en,support_refund_request_002,0.29
+technical_issue_006,Washing machine makes loud noises,My dishwasher is not draining water.,en,support_technical_issue_002,0.29
+technical_issue_001,Washing machine does not start,Buzdolabım yeterince soğutmuyor.,tr,support_technical_issue_003,0.29
+repair_request_010,Follow up on an existing repair request,Please arrange a service appointment.,en,support_repair_request_003,0.289
+warranty_question_006,Ask whether accidental damage is covered,Is my washing machine still under warranty?,en,support_warranty_question_001,0.289
+warranty_question_007,Check warranty after a previous repair,How long is the refrigerator warranty?,en,support_warranty_question_002,0.289
+delivery_question_004,Report delayed appliance delivery,Fırınımın teslimatını takip edebilir miyim?,tr,support_delivery_question_003,0.289
+warranty_question_002,Ask about refrigerator warranty duration,Çamaşır makinemin garantisi devam ediyor mu?,tr,support_warranty_question_001,0.286
+refund_request_005,Ask about refund processing time,How can I return my dishwasher?,en,support_refund_request_002,0.286
+refund_request_010,Request refund after repeated product failures,I want a refund for my vacuum cleaner.,en,support_refund_request_001,0.286
+warranty_question_008,Request a copy of warranty documentation,Çamaşır makinemin garantisi devam ediyor mu?,tr,support_warranty_question_001,0.286
+repair_request_010,Follow up on an existing repair request,Bulaşık makinesi için tamir randevusu alabilir miyim?,tr,support_repair_request_002,0.283
+warranty_question_009,Ask about warranty transfer after resale,How long is the refrigerator warranty?,en,support_warranty_question_002,0.282
+delivery_question_004,Report delayed appliance delivery,When will my dishwasher arrive?,en,support_delivery_question_001,0.281
+refund_request_006,Report a missing refund,Bulaşık makinesini nasıl iade edebilirim?,tr,support_refund_request_002,0.281
+technical_issue_005,Vacuum cleaner loses suction,My dishwasher is not draining water.,en,support_technical_issue_002,0.281
+technical_issue_009,Microwave display is not working,Buzdolabım yeterince soğutmuyor.,tr,support_technical_issue_003,0.281
+refund_request_002,Return a dishwasher,I want a refund for my vacuum cleaner.,en,support_refund_request_001,0.281
+repair_request_009,Request an appliance inspection visit,Can I schedule a dishwasher repair?,en,support_repair_request_002,0.278
+delivery_question_005,Change the delivery address,When will my dishwasher arrive?,en,support_delivery_question_001,0.276
+repair_request_004,Arrange refrigerator repair,Bulaşık makinesi için tamir randevusu alabilir miyim?,tr,support_repair_request_002,0.275
+repair_request_003,Request an oven service appointment,Servis randevusu oluşturmak istiyorum.,tr,support_repair_request_003,0.274
+repair_request_001,Book a washing machine technician,Fırınım için teknisyen istiyorum.,tr,support_repair_request_001,0.273
+refund_request_001,Request refund for a vacuum cleaner,How can I return my dishwasher?,en,support_refund_request_002,0.273
+refund_request_009,Ask about partial refunds,İptal ettiğim siparişin ücretini geri istiyorum.,tr,support_refund_request_003,0.27
+refund_request_002,Return a dishwasher,Please refund my cancelled order.,en,support_refund_request_003,0.269
+warranty_question_007,Check warranty after a previous repair,Çamaşır makinemin garantisi devam ediyor mu?,tr,support_warranty_question_001,0.268
+repair_request_007,Request urgent repair service,Bulaşık makinesi için tamir randevusu alabilir miyim?,tr,support_repair_request_002,0.268
+repair_request_009,Request an appliance inspection visit,Bulaşık makinesi için tamir randevusu alabilir miyim?,tr,support_repair_request_002,0.267
+repair_request_004,Arrange refrigerator repair,Fırınım için teknisyen istiyorum.,tr,support_repair_request_001,0.267
+technical_issue_010,Dryer stops during a cycle,Çamaşır makinem çalışmıyor.,tr,support_technical_issue_001,0.264
+delivery_question_001,Ask when a dishwasher will arrive,Fırınımın teslimatını takip edebilir miyim?,tr,support_delivery_question_003,0.263
+warranty_question_006,Ask whether accidental damage is covered,Motor arızası garanti kapsamında mı?,tr,support_warranty_question_003,0.263
+delivery_question_009,Confirm a delivery time window,When will my dishwasher arrive?,en,support_delivery_question_001,0.262
+warranty_question_009,Ask about warranty transfer after resale,Çamaşır makinemin garantisi devam ediyor mu?,tr,support_warranty_question_001,0.262
+delivery_question_007,Ask about delivery charges,Fırınımın teslimatını takip edebilir miyim?,tr,support_delivery_question_003,0.261
+refund_request_008,Return an unopened appliance,Bulaşık makinesini nasıl iade edebilirim?,tr,support_refund_request_002,0.261
+warranty_question_006,Ask whether accidental damage is covered,Buzdolabının garanti süresi ne kadar?,tr,support_warranty_question_002,0.26
+warranty_question_008,Request a copy of warranty documentation,Buzdolabının garanti süresi ne kadar?,tr,support_warranty_question_002,0.26
+technical_issue_001,Washing machine does not start,My refrigerator is not cooling properly.,en,support_technical_issue_003,0.257
+repair_request_001,Book a washing machine technician,Please arrange a service appointment.,en,support_repair_request_003,0.257
+repair_request_002,Schedule dishwasher repair,Please arrange a service appointment.,en,support_repair_request_003,0.254
+delivery_question_010,Ask about international delivery,When will my dishwasher arrive?,en,support_delivery_question_001,0.254
+technical_issue_009,Microwave display is not working,My washing machine won't start.,en,support_technical_issue_001,0.254
+warranty_question_004,Ask about extended warranty options,Çamaşır makinemin garantisi devam ediyor mu?,tr,support_warranty_question_001,0.253
+refund_request_004,Request refund for a damaged appliance,Bulaşık makinesini nasıl iade edebilirim?,tr,support_refund_request_002,0.253
+refund_request_010,Request refund after repeated product failures,Bulaşık makinesini nasıl iade edebilirim?,tr,support_refund_request_002,0.253
+repair_request_007,Request urgent repair service,Can I schedule a dishwasher repair?,en,support_repair_request_002,0.25
+warranty_question_010,Check coverage for replacement parts,Çamaşır makinemin garantisi devam ediyor mu?,tr,support_warranty_question_001,0.25
+delivery_question_004,Report delayed appliance delivery,Where is my refrigerator order?,en,support_delivery_question_002,0.25
+warranty_question_003,Check whether motor damage is covered,Motor arızası garanti kapsamında mı?,tr,support_warranty_question_003,0.247
+delivery_question_003,Check oven delivery status,Where is my refrigerator order?,en,support_delivery_question_002,0.246
+technical_issue_008,Refrigerator makes unusual sounds,Buzdolabım yeterince soğutmuyor.,tr,support_technical_issue_003,0.246
+delivery_question_002,Track a refrigerator order,When will my dishwasher arrive?,en,support_delivery_question_001,0.246
+delivery_question_007,Ask about delivery charges,When will my dishwasher arrive?,en,support_delivery_question_001,0.246
+delivery_question_009,Confirm a delivery time window,Buzdolabı siparişim nerede?,tr,support_delivery_question_002,0.246
+technical_issue_006,Washing machine makes loud noises,Buzdolabım yeterince soğutmuyor.,tr,support_technical_issue_003,0.246
+technical_issue_004,Oven does not heat,My washing machine won't start.,en,support_technical_issue_001,0.245
+refund_request_007,Request refund to original payment method,İptal ettiğim siparişin ücretini geri istiyorum.,tr,support_refund_request_003,0.244
+refund_request_008,Return an unopened appliance,I want a refund for my vacuum cleaner.,en,support_refund_request_001,0.242
+delivery_question_005,Change the delivery address,Where is my refrigerator order?,en,support_delivery_question_002,0.241
+technical_issue_003,Refrigerator does not cool,Buzdolabım yeterince soğutmuyor.,tr,support_technical_issue_003,0.241
+technical_issue_004,Oven does not heat,Buzdolabım yeterince soğutmuyor.,tr,support_technical_issue_003,0.24
+repair_request_009,Request an appliance inspection visit,I need a technician to repair my oven.,en,support_repair_request_001,0.24
+warranty_question_006,Ask whether accidental damage is covered,Çamaşır makinemin garantisi devam ediyor mu?,tr,support_warranty_question_001,0.238
+warranty_question_001,Check washing machine warranty validity,Buzdolabının garanti süresi ne kadar?,tr,support_warranty_question_002,0.237
+refund_request_002,Return a dishwasher,İptal ettiğim siparişin ücretini geri istiyorum.,tr,support_refund_request_003,0.235
+technical_issue_005,Vacuum cleaner loses suction,My refrigerator is not cooling properly.,en,support_technical_issue_003,0.235
+repair_request_001,Book a washing machine technician,Can I schedule a dishwasher repair?,en,support_repair_request_002,0.235
+repair_request_010,Follow up on an existing repair request,Servis randevusu oluşturmak istiyorum.,tr,support_repair_request_003,0.234
+refund_request_010,Request refund after repeated product failures,How can I return my dishwasher?,en,support_refund_request_002,0.234
+refund_request_001,Request refund for a vacuum cleaner,Elektrikli süpürgemi iade etmek istiyorum.,tr,support_refund_request_001,0.234
+delivery_question_001,Ask when a dishwasher will arrive,Buzdolabı siparişim nerede?,tr,support_delivery_question_002,0.233
+refund_request_002,Return a dishwasher,Bulaşık makinesini nasıl iade edebilirim?,tr,support_refund_request_002,0.233
+delivery_question_003,Check oven delivery status,Fırınımın teslimatını takip edebilir miyim?,tr,support_delivery_question_003,0.232
+warranty_question_006,Ask whether accidental damage is covered,How long is the refrigerator warranty?,en,support_warranty_question_002,0.231
+technical_issue_002,Dishwasher does not drain,Çamaşır makinem çalışmıyor.,tr,support_technical_issue_001,0.231
+refund_request_002,Return a dishwasher,Elektrikli süpürgemi iade etmek istiyorum.,tr,support_refund_request_001,0.23
+delivery_question_008,Report missing items from a shipment,Fırınımın teslimatını takip edebilir miyim?,tr,support_delivery_question_003,0.228
+repair_request_003,Request an oven service appointment,Bulaşık makinesi için tamir randevusu alabilir miyim?,tr,support_repair_request_002,0.227
+delivery_question_006,Reschedule a delivery,Bulaşık makinem ne zaman teslim edilecek?,tr,support_delivery_question_001,0.226
+delivery_question_002,Track a refrigerator order,Buzdolabı siparişim nerede?,tr,support_delivery_question_002,0.226
+warranty_question_003,Check whether motor damage is covered,Is my washing machine still under warranty?,en,support_warranty_question_001,0.225
+refund_request_007,Request refund to original payment method,How can I return my dishwasher?,en,support_refund_request_002,0.222
+technical_issue_007,Dishwasher leaks water,Buzdolabım yeterince soğutmuyor.,tr,support_technical_issue_003,0.222
+delivery_question_005,Change the delivery address,Buzdolabı siparişim nerede?,tr,support_delivery_question_002,0.222
+repair_request_005,Reschedule a technician visit,Bulaşık makinesi için tamir randevusu alabilir miyim?,tr,support_repair_request_002,0.22
+refund_request_007,Request refund to original payment method,Bulaşık makinesini nasıl iade edebilirim?,tr,support_refund_request_002,0.22
+repair_request_003,Request an oven service appointment,I need a technician to repair my oven.,en,support_repair_request_001,0.219
+technical_issue_006,Washing machine makes loud noises,My refrigerator is not cooling properly.,en,support_technical_issue_003,0.219
+delivery_question_009,Confirm a delivery time window,Fırınımın teslimatını takip edebilir miyim?,tr,support_delivery_question_003,0.219
+warranty_question_010,Check coverage for replacement parts,Buzdolabının garanti süresi ne kadar?,tr,support_warranty_question_002,0.219
+delivery_question_008,Report missing items from a shipment,Can I track my oven delivery?,en,support_delivery_question_003,0.215
+refund_request_001,Request refund for a vacuum cleaner,İptal ettiğim siparişin ücretini geri istiyorum.,tr,support_refund_request_003,0.214
+refund_request_009,Ask about partial refunds,Bulaşık makinesini nasıl iade edebilirim?,tr,support_refund_request_002,0.212
+delivery_question_007,Ask about delivery charges,Where is my refrigerator order?,en,support_delivery_question_002,0.211
+technical_issue_002,Dishwasher does not drain,Buzdolabım yeterince soğutmuyor.,tr,support_technical_issue_003,0.211
+technical_issue_010,Dryer stops during a cycle,Bulaşık makinem su boşaltmıyor.,tr,support_technical_issue_002,0.211
+delivery_question_008,Report missing items from a shipment,Where is my refrigerator order?,en,support_delivery_question_002,0.209
+refund_request_009,Ask about partial refunds,Elektrikli süpürgemi iade etmek istiyorum.,tr,support_refund_request_001,0.209
+repair_request_008,Ask about technician availability,Can I schedule a dishwasher repair?,en,support_repair_request_002,0.206
+technical_issue_009,Microwave display is not working,Çamaşır makinem çalışmıyor.,tr,support_technical_issue_001,0.203
+delivery_question_002,Track a refrigerator order,Fırınımın teslimatını takip edebilir miyim?,tr,support_delivery_question_003,0.203
+refund_request_003,Ask for refund after order cancellation,Bulaşık makinesini nasıl iade edebilirim?,tr,support_refund_request_002,0.2
+refund_request_003,Ask for refund after order cancellation,How can I return my dishwasher?,en,support_refund_request_002,0.2
+repair_request_009,Request an appliance inspection visit,Fırınım için teknisyen istiyorum.,tr,support_repair_request_001,0.2
+refund_request_004,Request refund for a damaged appliance,Elektrikli süpürgemi iade etmek istiyorum.,tr,support_refund_request_001,0.2
+warranty_question_003,Check whether motor damage is covered,Çamaşır makinemin garantisi devam ediyor mu?,tr,support_warranty_question_001,0.198
+delivery_question_009,Confirm a delivery time window,Where is my refrigerator order?,en,support_delivery_question_002,0.197
+repair_request_007,Request urgent repair service,Fırınım için teknisyen istiyorum.,tr,support_repair_request_001,0.194
+refund_request_007,Request refund to original payment method,Elektrikli süpürgemi iade etmek istiyorum.,tr,support_refund_request_001,0.193
+technical_issue_009,Microwave display is not working,Bulaşık makinem su boşaltmıyor.,tr,support_technical_issue_002,0.19
+refund_request_005,Ask about refund processing time,Elektrikli süpürgemi iade etmek istiyorum.,tr,support_refund_request_001,0.189
+technical_issue_003,Refrigerator does not cool,Çamaşır makinem çalışmıyor.,tr,support_technical_issue_001,0.189
+delivery_question_004,Report delayed appliance delivery,Bulaşık makinem ne zaman teslim edilecek?,tr,support_delivery_question_001,0.189
+delivery_question_007,Ask about delivery charges,Buzdolabı siparişim nerede?,tr,support_delivery_question_002,0.189
+refund_request_004,Request refund for a damaged appliance,İptal ettiğim siparişin ücretini geri istiyorum.,tr,support_refund_request_003,0.184
+technical_issue_005,Vacuum cleaner loses suction,Çamaşır makinem çalışmıyor.,tr,support_technical_issue_001,0.182
+repair_request_007,Request urgent repair service,Servis randevusu oluşturmak istiyorum.,tr,support_repair_request_003,0.179
+repair_request_005,Reschedule a technician visit,Servis randevusu oluşturmak istiyorum.,tr,support_repair_request_003,0.179
+technical_issue_002,Dishwasher does not drain,Bulaşık makinem su boşaltmıyor.,tr,support_technical_issue_002,0.179
+technical_issue_003,Refrigerator does not cool,My washing machine won't start.,en,support_technical_issue_001,0.175
+technical_issue_003,Refrigerator does not cool,Bulaşık makinem su boşaltmıyor.,tr,support_technical_issue_002,0.175
+technical_issue_008,Refrigerator makes unusual sounds,My dishwasher is not draining water.,en,support_technical_issue_002,0.174
+repair_request_002,Schedule dishwasher repair,Fırınım için teknisyen istiyorum.,tr,support_repair_request_001,0.169
+repair_request_008,Ask about technician availability,Servis randevusu oluşturmak istiyorum.,tr,support_repair_request_003,0.169
+repair_request_001,Book a washing machine technician,Servis randevusu oluşturmak istiyorum.,tr,support_repair_request_003,0.169
+delivery_question_006,Reschedule a delivery,Buzdolabı siparişim nerede?,tr,support_delivery_question_002,0.167
+technical_issue_007,Dishwasher leaks water,My refrigerator is not cooling properly.,en,support_technical_issue_003,0.161
+repair_request_009,Request an appliance inspection visit,Servis randevusu oluşturmak istiyorum.,tr,support_repair_request_003,0.16
+refund_request_010,Request refund after repeated product failures,Elektrikli süpürgemi iade etmek istiyorum.,tr,support_refund_request_001,0.159
+refund_request_001,Request refund for a vacuum cleaner,Bulaşık makinesini nasıl iade edebilirim?,tr,support_refund_request_002,0.158
+refund_request_006,Report a missing refund,Elektrikli süpürgemi iade etmek istiyorum.,tr,support_refund_request_001,0.154
+delivery_question_003,Check oven delivery status,Buzdolabı siparişim nerede?,tr,support_delivery_question_002,0.151
+refund_request_003,Ask for refund after order cancellation,Elektrikli süpürgemi iade etmek istiyorum.,tr,support_refund_request_001,0.148
+refund_request_010,Request refund after repeated product failures,İptal ettiğim siparişin ücretini geri istiyorum.,tr,support_refund_request_003,0.147
+refund_request_006,Report a missing refund,İptal ettiğim siparişin ücretini geri istiyorum.,tr,support_refund_request_003,0.139
+refund_request_003,Ask for refund after order cancellation,İptal ettiğim siparişin ücretini geri istiyorum.,tr,support_refund_request_003,0.136
+warranty_question_003,Check whether motor damage is covered,Buzdolabının garanti süresi ne kadar?,tr,support_warranty_question_002,0.135
+delivery_question_004,Report delayed appliance delivery,Buzdolabı siparişim nerede?,tr,support_delivery_question_002,0.133
+refund_request_008,Return an unopened appliance,Elektrikli süpürgemi iade etmek istiyorum.,tr,support_refund_request_001,0.114
+refund_request_008,Return an unopened appliance,İptal ettiğim siparişin ücretini geri istiyorum.,tr,support_refund_request_003,0.104
+delivery_question_008,Report missing items from a shipment,Buzdolabı siparişim nerede?,tr,support_delivery_question_002,0.095
+delivery_question_003,Check oven delivery status,Bulaşık makinem ne zaman teslim edilecek?,tr,support_delivery_question_001,0.09
+technical_issue_004,Oven does not heat,Bulaşık makinem su boşaltmıyor.,tr,support_technical_issue_002,0.082
+technical_issue_004,Oven does not heat,Çamaşır makinem çalışmıyor.,tr,support_technical_issue_001,0.044

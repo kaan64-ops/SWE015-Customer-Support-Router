@@ -1,0 +1,59 @@
+﻿text,language,true_intent,tfidf_logreg,feedforward_fasttext,multilingual_bert,distilled_student,distilled_student_int8,rule_based
+My washing machine makes a loud banging noise during spinning.,en,technical_issue,warranty_question,warranty_question,technical_issue,technical_issue,technical_issue,technical_issue
+Çamaşır makinem sıkma sırasında yüksek sesle vuruyor.,tr,technical_issue,warranty_question,technical_issue,technical_issue,technical_issue,technical_issue,out_of_scope
+My tumble dryer stops before the drying cycle is finished.,en,technical_issue,out_of_scope,technical_issue,technical_issue,technical_issue,technical_issue,out_of_scope
+Çamaşır kurutma makinem program bitmeden duruyor.,tr,technical_issue,warranty_question,technical_issue,technical_issue,technical_issue,technical_issue,out_of_scope
+Can I schedule a dishwasher repair?,en,repair_request,repair_request,refund_request,warranty_question,refund_request,warranty_question,repair_request
+Bulaşık makinesi için tamir randevusu alabilir miyim?,tr,repair_request,repair_request,repair_request,warranty_question,refund_request,refund_request,repair_request
+Can I change the date of my technician appointment?,en,repair_request,out_of_scope,delivery_question,warranty_question,warranty_question,warranty_question,out_of_scope
+Teknisyen randevumun tarihini değiştirebilir miyim?,tr,repair_request,delivery_question,repair_request,warranty_question,refund_request,refund_request,out_of_scope
+Does the warranty cover motor failure?,en,warranty_question,warranty_question,warranty_question,warranty_question,warranty_question,warranty_question,out_of_scope
+Motor arızası garanti kapsamında mı?,tr,warranty_question,warranty_question,warranty_question,warranty_question,warranty_question,warranty_question,out_of_scope
+Are replacement parts included in the appliance warranty?,en,warranty_question,out_of_scope,warranty_question,warranty_question,warranty_question,warranty_question,out_of_scope
+Cihazın garanti kapsamına yedek parçalar da dahil mi?,tr,warranty_question,warranty_question,warranty_question,warranty_question,warranty_question,warranty_question,out_of_scope
+My washing machine delivery is three days late. What happened?,en,delivery_question,delivery_question,delivery_question,refund_request,refund_request,refund_request,delivery_question
+Çamaşır makinemin teslimatı üç gün gecikti. Ne oldu?,tr,delivery_question,warranty_question,warranty_question,refund_request,refund_request,refund_request,out_of_scope
+How much does delivery cost for a new oven?,en,delivery_question,delivery_question,out_of_scope,warranty_question,warranty_question,warranty_question,delivery_question
+Yeni bir fırının teslimat ücreti ne kadar?,tr,delivery_question,out_of_scope,warranty_question,warranty_question,warranty_question,warranty_question,delivery_question
+Please refund my cancelled order.,en,refund_request,refund_request,out_of_scope,refund_request,repair_request,technical_issue,out_of_scope
+İptal ettiğim siparişin ücretini geri istiyorum.,tr,refund_request,refund_request,refund_request,technical_issue,repair_request,repair_request,out_of_scope
+Can you refund the money to my original payment card?,en,refund_request,refund_request,refund_request,warranty_question,warranty_question,warranty_question,out_of_scope
+Ücret iadesini ödeme yaptığım karta gönderebilir misiniz?,tr,refund_request,out_of_scope,warranty_question,warranty_question,refund_request,refund_request,out_of_scope
+start a vacuum cleaner,en,out_of_scope,out_of_scope,refund_request,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+run coffee maker,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+call the nearest thai restaurant with delivery,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+my vacuum cleaner should start between ten to eleven am everyday,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+please activate my coffee pot for me,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+please power down,en,out_of_scope,out_of_scope,repair_request,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+turn the kitchen lights off,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+prepare coffee now,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+alexa please turn down the lights in the house,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+siri please turn the lights off in the bathroom,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+put on the vacuum on now and clean the living room,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+tell me some best tourist places to visit in america,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+check my to do list,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+take out the milk from the shopping list,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+get rid of tax list from nineteen ninety,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+any cultural events in california,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+what gun shows are in tulsa,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+show me reviews of my nearest location food court,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+is there a food festival in the area,en,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+elektrik süpürgesini çalıştır,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+kahve makinesini çalıştır,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+teslimat yapan en yakın tayland restoranını ara,tr,out_of_scope,out_of_scope,delivery_question,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+elektrikli süpürgem her gün sabah on ile on bir arasında başlamalı,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+lütfen cezvemi benim için çalıştır,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+lütfen gücü kapat,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+mutfak ışıklarını kapat,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+şimdi kahve hazırla,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+alexa evdeki ışıkları kapat lütfen,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+siri lütfen banyodaki ışıkları kapat,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+elektrikli süpürgeyi şimdi aç ve oturma odasını temizle,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+bana amerikada ziyaret edilecek en iyi turistik yerlerden bazılarını söyle,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+yapılacaklar listemi kontrol et,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+sütü alışveriş listesinden çıkar,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+bin dokuz yüz doksan vergi listesinden kurtul,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+istanbuldaki kültürel etkinlikler,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+afyon 'da hangi silah gösterisi var,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+bana en yakın konumdaki kebapçının yorumlarını göster,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope
+civarda yemek festivali var mı,tr,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope,out_of_scope

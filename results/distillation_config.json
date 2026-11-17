@@ -1,0 +1,10 @@
+{
+  "teacher": "models/multilingual_bert",
+  "student": "distilbert-base-multilingual-cased",
+  "temperature": 2.0,
+  "alpha": 0.3,
+  "epochs": 3,
+  "batch_size": 4,
+  "max_length": 64,
+  "seed": 42
+}

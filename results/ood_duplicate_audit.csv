@@ -1,0 +1,3 @@
+﻿text,intent,language,source,original_intent,split,group_id,review_decision,normalized_text
+robot süpürgeyi başlat,out_of_scope,tr,MASSIVE,iot_cleaning,train,massive_4075,keep,robot süpürgeyi başlat
+robot süpürgeyi başlat,out_of_scope,tr,MASSIVE,iot_cleaning,train,massive_4946,keep,robot süpürgeyi başlat

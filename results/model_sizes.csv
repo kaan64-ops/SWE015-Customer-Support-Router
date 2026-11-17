@@ -1,0 +1,7 @@
+model,size_mb,size_bytes
+rule_based,0.003,2995
+tfidf_logreg,0.788,826220
+feedforward_fasttext,0.58,608576
+multilingual_bert,681.288,714382402
+distilled_student,519.038,544250683
+distilled_student_int8,395.896,415126899

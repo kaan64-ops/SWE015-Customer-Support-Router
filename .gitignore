@@ -1,0 +1,35 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+*.key
+
+# Large trained model artifacts
+models/
+
+# Datasets
+data/
+
+# Large embedding files
+embeddings/
+
+# Local caches
+.cache/
+.huggingface/
+
+# Streamlit local configuration
+.streamlit/secrets.toml
+
+# Temporary files
+*.tmp
+*.log
+
+inference_artifacts.zip

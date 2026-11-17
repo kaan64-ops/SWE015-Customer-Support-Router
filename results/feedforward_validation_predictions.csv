@@ -1,0 +1,47 @@
+﻿text,language,true_intent,predicted_intent
+My washing machine won't start.,en,technical_issue,refund_request
+Çamaşır makinem çalışmıyor.,tr,technical_issue,technical_issue
+My vacuum cleaner has lost most of its suction power.,en,technical_issue,technical_issue
+Elektrikli süpürgem artık eskisi gibi çekmiyor.,tr,technical_issue,technical_issue
+Could you send a technician to fix my washing machine?,en,repair_request,repair_request
+Çamaşır makinemi tamir etmek için teknisyen gönderebilir misiniz?,tr,repair_request,repair_request
+Please arrange a service appointment.,en,repair_request,repair_request
+Servis randevusu oluşturmak istiyorum.,tr,repair_request,out_of_scope
+Does the warranty cover accidental damage to my oven?,en,warranty_question,warranty_question
+Fırınımın kazara hasar görmesi garanti kapsamında mı?,tr,warranty_question,warranty_question
+"If I sell my washing machine, can the warranty transfer to the buyer?",en,warranty_question,warranty_question
+Çamaşır makinemi satarsam garanti yeni sahibine devredilir mi?,tr,warranty_question,warranty_question
+When will my dishwasher arrive?,en,delivery_question,delivery_question
+Bulaşık makinem ne zaman teslim edilecek?,tr,delivery_question,delivery_question
+I need to reschedule my dishwasher delivery for next Monday.,en,delivery_question,repair_request
+Bulaşık makinemin teslimatını gelecek pazartesiye ertelemek istiyorum.,tr,delivery_question,delivery_question
+How long will it take to receive my refund for the oven?,en,refund_request,warranty_question
+Fırınımın ücret iadesini almam ne kadar sürer?,tr,refund_request,warranty_question
+My dishwasher has failed repeatedly despite several repairs. I would like a refund.,en,refund_request,refund_request
+Bulaşık makinem birkaç kez tamir edilmesine rağmen sürekli arızalanıyor. Ücret iadesi istiyorum.,tr,refund_request,refund_request
+start my robot vacuum cleaner,en,out_of_scope,technical_issue
+lower lights,en,out_of_scope,out_of_scope
+turn off lighting,en,out_of_scope,out_of_scope
+replace color from light to dark,en,out_of_scope,out_of_scope
+kindly switch off the light in the drawing hall,en,out_of_scope,out_of_scope
+activate robot vacuum,en,out_of_scope,out_of_scope
+remove pepper from my grocery list,en,out_of_scope,out_of_scope
+remove last played song,en,out_of_scope,out_of_scope
+my health planning,en,out_of_scope,repair_request
+i need some sushi what's closest,en,out_of_scope,out_of_scope
+where is the food festival tonight,en,out_of_scope,out_of_scope
+any good bike shops in oxford,en,out_of_scope,out_of_scope
+olly what are some restaurants near me,en,out_of_scope,out_of_scope
+robot süpürgemi çalıştır,tr,out_of_scope,out_of_scope
+ışıkları kıs,tr,out_of_scope,out_of_scope
+ışığı kapat,tr,out_of_scope,out_of_scope
+rengi açıktan koyuya döndür,tr,out_of_scope,refund_request
+salondaki ışıkları kapat,tr,out_of_scope,out_of_scope
+robot süpürgeyi etkinleştir,tr,out_of_scope,out_of_scope
+market listemden karabiberi çıkar,tr,out_of_scope,out_of_scope
+son çalınan şarkıyı kaldır,tr,out_of_scope,out_of_scope
+benim sağlık planım,tr,out_of_scope,repair_request
+biraz sushi ihtiyacım var en yakını hangisi,tr,out_of_scope,out_of_scope
+bu gece yemek festivali nerede,tr,out_of_scope,out_of_scope
+boğaziçindeki iyi bisikletçiler,tr,out_of_scope,out_of_scope
+olly yakınımdaki restoranlar neler,tr,out_of_scope,out_of_scope
