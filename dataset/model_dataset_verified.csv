@@ -1,0 +1,311 @@
+﻿text,intent,language,split
+My washing machine won't start.,technical_issue,en,validation
+Çamaşır makinem çalışmıyor.,technical_issue,tr,validation
+My dishwasher is not draining water.,technical_issue,en,train
+Bulaşık makinem su boşaltmıyor.,technical_issue,tr,train
+My refrigerator is not cooling properly.,technical_issue,en,train
+Buzdolabım yeterince soğutmuyor.,technical_issue,tr,train
+"My oven turns on, but it doesn't heat up.",technical_issue,en,train
+Fırınım açılıyor ama ısınmıyor.,technical_issue,tr,train
+My vacuum cleaner has lost most of its suction power.,technical_issue,en,validation
+Elektrikli süpürgem artık eskisi gibi çekmiyor.,technical_issue,tr,validation
+My washing machine makes a loud banging noise during spinning.,technical_issue,en,test
+Çamaşır makinem sıkma sırasında yüksek sesle vuruyor.,technical_issue,tr,test
+Water keeps leaking from underneath my dishwasher.,technical_issue,en,train
+Bulaşık makinemin altından sürekli su sızıyor.,technical_issue,tr,train
+My refrigerator has started making a strange buzzing sound.,technical_issue,en,train
+Buzdolabım garip bir uğultu sesi çıkarmaya başladı.,technical_issue,tr,train
+The display on my microwave is completely blank.,technical_issue,en,train
+Mikrodalga fırınımın ekranında hiçbir şey görünmüyor.,technical_issue,tr,train
+My tumble dryer stops before the drying cycle is finished.,technical_issue,en,test
+Çamaşır kurutma makinem program bitmeden duruyor.,technical_issue,tr,test
+Could you send a technician to fix my washing machine?,repair_request,en,validation
+Çamaşır makinemi tamir etmek için teknisyen gönderebilir misiniz?,repair_request,tr,validation
+Can I schedule a dishwasher repair?,repair_request,en,test
+Bulaşık makinesi için tamir randevusu alabilir miyim?,repair_request,tr,test
+I need a technician to repair my oven.,repair_request,en,train
+Fırınım için teknisyen istiyorum.,repair_request,tr,train
+I need to arrange a repair for my refrigerator.,repair_request,en,train
+Buzdolabım için tamir servisi ayarlamak istiyorum.,repair_request,tr,train
+Can I change the date of my technician appointment?,repair_request,en,test
+Teknisyen randevumun tarihini değiştirebilir miyim?,repair_request,tr,test
+Please cancel my scheduled repair appointment.,repair_request,en,train
+Planlanmış tamir randevumu iptal eder misiniz?,repair_request,tr,train
+I need an urgent repair visit because my freezer has stopped working.,repair_request,en,train
+Derin dondurucum çalışmadığı için acil tamir servisi istiyorum.,repair_request,tr,train
+Do you have any technicians available this weekend?,repair_request,en,train
+Bu hafta sonu müsait teknisyeniniz var mı?,repair_request,tr,train
+Please arrange a service appointment.,repair_request,en,validation
+Servis randevusu oluşturmak istiyorum.,repair_request,tr,validation
+I requested a repair last week. Can you check its status?,repair_request,en,train
+Geçen hafta tamir talebi oluşturdum. Durumunu kontrol edebilir misiniz?,repair_request,tr,train
+Is my washing machine still under warranty?,warranty_question,en,train
+Çamaşır makinemin garantisi devam ediyor mu?,warranty_question,tr,train
+How long is the refrigerator warranty?,warranty_question,en,train
+Buzdolabının garanti süresi ne kadar?,warranty_question,tr,train
+Does the warranty cover motor failure?,warranty_question,en,test
+Motor arızası garanti kapsamında mı?,warranty_question,tr,test
+Can I purchase an extended warranty for my dishwasher?,warranty_question,en,train
+Bulaşık makinem için ek garanti satın alabilir miyim?,warranty_question,tr,train
+How do I register my new washing machine for warranty?,warranty_question,en,train
+Yeni çamaşır makinemi garantiye nasıl kaydettirebilirim?,warranty_question,tr,train
+Does the warranty cover accidental damage to my oven?,warranty_question,en,validation
+Fırınımın kazara hasar görmesi garanti kapsamında mı?,warranty_question,tr,validation
+Is my refrigerator still covered after a previous repair?,warranty_question,en,train
+Buzdolabım daha önce tamir edildi. Garantisi hâlâ geçerli mi?,warranty_question,tr,train
+Could you send me a copy of my warranty certificate?,warranty_question,en,train
+Garanti belgemin bir kopyasını gönderebilir misiniz?,warranty_question,tr,train
+"If I sell my washing machine, can the warranty transfer to the buyer?",warranty_question,en,validation
+Çamaşır makinemi satarsam garanti yeni sahibine devredilir mi?,warranty_question,tr,validation
+Are replacement parts included in the appliance warranty?,warranty_question,en,test
+Cihazın garanti kapsamına yedek parçalar da dahil mi?,warranty_question,tr,test
+When will my dishwasher arrive?,delivery_question,en,validation
+Bulaşık makinem ne zaman teslim edilecek?,delivery_question,tr,validation
+Where is my refrigerator order?,delivery_question,en,train
+Buzdolabı siparişim nerede?,delivery_question,tr,train
+Can I track my oven delivery?,delivery_question,en,train
+Fırınımın teslimatını takip edebilir miyim?,delivery_question,tr,train
+My washing machine delivery is three days late. What happened?,delivery_question,en,test
+Çamaşır makinemin teslimatı üç gün gecikti. Ne oldu?,delivery_question,tr,test
+Can I change the delivery address for my refrigerator?,delivery_question,en,train
+Buzdolabımın teslimat adresini değiştirebilir miyim?,delivery_question,tr,train
+I need to reschedule my dishwasher delivery for next Monday.,delivery_question,en,validation
+Bulaşık makinemin teslimatını gelecek pazartesiye ertelemek istiyorum.,delivery_question,tr,validation
+How much does delivery cost for a new oven?,delivery_question,en,test
+Yeni bir fırının teslimat ücreti ne kadar?,delivery_question,tr,test
+"My appliance shipment arrived, but one accessory is missing.",delivery_question,en,train
+Cihazım teslim edildi ancak bir aksesuar eksik.,delivery_question,tr,train
+Can you confirm the delivery time window for my washing machine?,delivery_question,en,train
+Çamaşır makinemin teslim edileceği saat aralığını doğrulayabilir misiniz?,delivery_question,tr,train
+Do you offer international delivery for refrigerators?,delivery_question,en,train
+Buzdolapları için uluslararası teslimat yapıyor musunuz?,delivery_question,tr,train
+I want a refund for my vacuum cleaner.,refund_request,en,train
+Elektrikli süpürgemi iade etmek istiyorum.,refund_request,tr,train
+How can I return my dishwasher?,refund_request,en,train
+Bulaşık makinesini nasıl iade edebilirim?,refund_request,tr,train
+Please refund my cancelled order.,refund_request,en,test
+İptal ettiğim siparişin ücretini geri istiyorum.,refund_request,tr,test
+My new refrigerator arrived damaged. I want a full refund.,refund_request,en,train
+Yeni buzdolabım hasarlı geldi. Ücretimin tamamını geri istiyorum.,refund_request,tr,train
+How long will it take to receive my refund for the oven?,refund_request,en,validation
+Fırınımın ücret iadesini almam ne kadar sürer?,refund_request,tr,validation
+"I returned my washing machine two weeks ago, but I still haven't received my refund.",refund_request,en,train
+Çamaşır makinemi iki hafta önce iade ettim ama ücretim hâlâ geri ödenmedi.,refund_request,tr,train
+Can you refund the money to my original payment card?,refund_request,en,test
+Ücret iadesini ödeme yaptığım karta gönderebilir misiniz?,refund_request,tr,test
+I bought a microwave but never opened the box. Can I return it?,refund_request,en,train
+Bir mikrodalga fırın aldım ama kutusunu hiç açmadım. İade edebilir miyim?,refund_request,tr,train
+The appliance has a minor defect. Can I get a partial refund?,refund_request,en,train
+Cihazda küçük bir kusur var. Kısmi ücret iadesi alabilir miyim?,refund_request,tr,train
+My dishwasher has failed repeatedly despite several repairs. I would like a refund.,refund_request,en,validation
+Bulaşık makinem birkaç kez tamir edilmesine rağmen sürekli arızalanıyor. Ücret iadesi istiyorum.,refund_request,tr,validation
+olly set lights to twenty percent,out_of_scope,en,train
+vacuum the house olly,out_of_scope,en,train
+decrease brightness,out_of_scope,en,train
+change the lights into green,out_of_scope,en,train
+does pf changs do take-out,out_of_scope,en,train
+turn this room light off,out_of_scope,en,train
+please turn off only right side light,out_of_scope,en,train
+change light color to yellow,out_of_scope,en,train
+please activate my vacuum cleaner,out_of_scope,en,train
+i don't need the lights,out_of_scope,en,train
+change my house lights color to blue,out_of_scope,en,train
+where can i order take-out,out_of_scope,en,train
+from wangs kitchen restaurant home delivery for a chicken manchow soup,out_of_scope,en,train
+want to have vibrant colors,out_of_scope,en,train
+start a takeaway order for me,out_of_scope,en,train
+commence coffee making,out_of_scope,en,train
+order from dominoes,out_of_scope,en,train
+does brick grill deliver,out_of_scope,en,train
+change light colors,out_of_scope,en,train
+turn on the roomba for me,out_of_scope,en,train
+order pizza from domino's,out_of_scope,en,train
+activate robot vacuum cleaner,out_of_scope,en,train
+please turn up the lights in this room,out_of_scope,en,train
+brighten light,out_of_scope,en,train
+connect to lights,out_of_scope,en,train
+does pizza hut have my order ready,out_of_scope,en,train
+turn off bedroom lights in ten seconds,out_of_scope,en,train
+i want hot coffee,out_of_scope,en,train
+please turn off wemo socket,out_of_scope,en,train
+put out the lights,out_of_scope,en,train
+please turn on the lights,out_of_scope,en,train
+order chinese for delivery,out_of_scope,en,train
+reviews of the restaurants,out_of_scope,en,train
+turn off the t. v. in,out_of_scope,en,train
+any low priced delicacies,out_of_scope,en,train
+hey turn off the light please,out_of_scope,en,train
+i can't see anything,out_of_scope,en,train
+show me upcoming events in the quad cities,out_of_scope,en,train
+i need to make a list of bills that are due,out_of_scope,en,train
+remove buying eggs item from to do list,out_of_scope,en,train
+remove playlist,out_of_scope,en,train
+what are the things i need for my journey,out_of_scope,en,train
+is there room on my grocery list for an extra item,out_of_scope,en,train
+add ashley to the wedding invite list,out_of_scope,en,train
+remove ashley from the wedding invite list,out_of_scope,en,train
+please destroy this list,out_of_scope,en,train
+to do list,out_of_scope,en,train
+delete apples from my shopping list,out_of_scope,en,train
+make new list of recent workouts,out_of_scope,en,train
+add a movie name to the wish list,out_of_scope,en,train
+delete my to do list,out_of_scope,en,train
+olly read back my grocery list to me,out_of_scope,en,train
+tell me chinese restaurants in the area,out_of_scope,en,train
+find events near by,out_of_scope,en,train
+is there any grocery nearby,out_of_scope,en,train
+where is the event venue,out_of_scope,en,train
+tell me a nice chinese restaurant,out_of_scope,en,train
+i would like to know the events happening around here,out_of_scope,en,train
+show me best in class theater,out_of_scope,en,train
+search for any upcoming book fairs during next week in washington d. c.,out_of_scope,en,train
+what events are happening in pondichery this weekend,out_of_scope,en,train
+olly tell me where the local shopping district is,out_of_scope,en,train
+where should i go this weekend,out_of_scope,en,train
+find me a bar in cleveland open until two am,out_of_scope,en,train
+olly find me a zoo or animal park in chicago that open this weekend,out_of_scope,en,train
+please give me all shop names in a two mile radius,out_of_scope,en,train
+ask a pub in my area,out_of_scope,en,train
+are there any good movies running in nearby theaters,out_of_scope,en,train
+olly what movies are playing at carmike cinemas,out_of_scope,en,train
+what kind of musical events are happening around here this week,out_of_scope,en,train
+i need to know where to get chicken wings in benton are,out_of_scope,en,train
+find a kid friendly event in my area for tonight,out_of_scope,en,train
+find tacos near my home,out_of_scope,en,train
+olly ışıkları yüzde yirmiye ayarla,out_of_scope,tr,train
+olly evi süpür,out_of_scope,tr,train
+parlaklığı azalt,out_of_scope,tr,train
+ışıkları yeşile çevir,out_of_scope,tr,train
+pf changs paket servis yapıyor mu,out_of_scope,tr,train
+bu odanın ışığını kapat,out_of_scope,tr,train
+lütfen sadece sağ yan daki ışığı kapat,out_of_scope,tr,train
+ışık rengini sarıya değiştir,out_of_scope,tr,train
+lütfen elektrikli süpürgemi çalıştır,out_of_scope,tr,train
+ışıklara ihtiyacım yok,out_of_scope,tr,train
+evimin ışıklarının rengini maviye değiştir,out_of_scope,tr,train
+ben paket servis alabilir miyim,out_of_scope,tr,train
+günaydın restoran eve teslimat soğan ve hardal burger,out_of_scope,tr,train
+canlı renkler istiyorum,out_of_scope,tr,train
+benim için paket servis başlat,out_of_scope,tr,train
+kahve yapmaya başla,out_of_scope,tr,train
+dominoes dan sipariş,out_of_scope,tr,train
+taş fırın teslimat yapıyor mu,out_of_scope,tr,train
+ışık renklerini değiştir,out_of_scope,tr,train
+roombayı çalıştır lütfen,out_of_scope,tr,train
+domino's dan pizza siparişi ver,out_of_scope,tr,train
+robot süpürgeyi başlat,out_of_scope,tr,train
+lütfen bu odadaki ışıkları artır,out_of_scope,tr,train
+ışıkları aydınlat,out_of_scope,tr,train
+ışıklara bağlan,out_of_scope,tr,train
+pizza hut siparişim hazır mı,out_of_scope,tr,train
+on saniye içinde yatak odasının ışıklarını kapat,out_of_scope,tr,train
+sıcak kahve istiyorum,out_of_scope,tr,train
+lütfen wemo prizi kapat,out_of_scope,tr,train
+ışıkları kapat,out_of_scope,tr,train
+lütfen ışıkları aç,out_of_scope,tr,train
+adrese teslimat çin yemeği sipariş et,out_of_scope,tr,train
+restoranlar hakkında değerlendirmeler,out_of_scope,tr,train
+t. v. kapat,out_of_scope,tr,train
+herhangi düşük fiyatlı lezzet,out_of_scope,tr,train
+hey ışığı kapat lütfen,out_of_scope,tr,train
+hiç bir şey görmüyorum,out_of_scope,tr,train
+bana şehrin dört yanından yaklaşan etkinlikleri göster,out_of_scope,tr,train
+vadesi gelmiş faturaların bir listesini yapmam gerekiyor,out_of_scope,tr,train
+yapılacaklar listesinden yumurta satın alma öğesini kaldır,out_of_scope,tr,train
+çalma listesini kaldır,out_of_scope,tr,train
+yolculuğum için ihtiyacım olan şeyler nelerdir,out_of_scope,tr,train
+benim bakkal listemde fazladan bir ürün için yer var mı,out_of_scope,tr,train
+ayşeyi düğün davetiyesi listesine ekle,out_of_scope,tr,train
+ayşeyi düğün davetiyesi listesinden çıkar,out_of_scope,tr,train
+lütfen bu listeyi yok et,out_of_scope,tr,train
+yapılacaklar listesi,out_of_scope,tr,train
+elmaları alışveriş listemden sil,out_of_scope,tr,train
+son egzersizlerin yeni listesini yap,out_of_scope,tr,train
+istek listesi ne film adı ekle,out_of_scope,tr,train
+yapılacaklar listemi sil,out_of_scope,tr,train
+olly market listemi bana geri oku,out_of_scope,tr,train
+etrafımdaki çin restoranlarını söyle,out_of_scope,tr,train
+yakındaki etkinlikleri bul,out_of_scope,tr,train
+yakınlarda hiç market var mı,out_of_scope,tr,train
+etkinlik alanı nerede,out_of_scope,tr,train
+bana güzel bir çin restoranı söyle,out_of_scope,tr,train
+burada hangi etkinlikler olduğunu bilmek istiyorum,out_of_scope,tr,train
+bana sınıfının en iyi tiyatrosunu göster,out_of_scope,tr,train
+izmitte önümüzdeki hafta yapılacak herhangi bir kitap fuarını ara,out_of_scope,tr,train
+bu haftasonu cihangir 'de hangi etkinlikler var,out_of_scope,tr,train
+olly yerel alışveriş sokağının nerede olduğunu söyle,out_of_scope,tr,train
+bu hafta sonu nereye gideyim,out_of_scope,tr,train
+bağlar da gece ikiye kadar açık bir bar var mı,out_of_scope,tr,train
+olly bana izmirde bu hafta sonu açık olan bir hayvanat bahçesi veya hayvan parkı bul,out_of_scope,tr,train
+iki mil çaptaki bütün dükkan isimlerini ver bana lütfen,out_of_scope,tr,train
+bölgemde bir pub sor,out_of_scope,tr,train
+yakındaki sinemalarda yayınlanan iyi filmler var mı,out_of_scope,tr,train
+olly istanbul park avm sinemalarında hangi filmler gösterimde,out_of_scope,tr,train
+bu hafta buralarda ne tür müzik etkinlikleri oluyor,out_of_scope,tr,train
+harbiyede tavuk kanadı alabileceğim bir yer bilmem gerek,out_of_scope,tr,train
+bu gece bana yakın çocuklara göre etkinlik bul,out_of_scope,tr,train
+benim evime yakın bir gözleme bul,out_of_scope,tr,train
+start my robot vacuum cleaner,out_of_scope,en,validation
+lower lights,out_of_scope,en,validation
+turn off lighting,out_of_scope,en,validation
+replace color from light to dark,out_of_scope,en,validation
+kindly switch off the light in the drawing hall,out_of_scope,en,validation
+activate robot vacuum,out_of_scope,en,validation
+remove pepper from my grocery list,out_of_scope,en,validation
+remove last played song,out_of_scope,en,validation
+my health planning,out_of_scope,en,validation
+i need some sushi what's closest,out_of_scope,en,validation
+where is the food festival tonight,out_of_scope,en,validation
+any good bike shops in oxford,out_of_scope,en,validation
+olly what are some restaurants near me,out_of_scope,en,validation
+robot süpürgemi çalıştır,out_of_scope,tr,validation
+ışıkları kıs,out_of_scope,tr,validation
+ışığı kapat,out_of_scope,tr,validation
+rengi açıktan koyuya döndür,out_of_scope,tr,validation
+salondaki ışıkları kapat,out_of_scope,tr,validation
+robot süpürgeyi etkinleştir,out_of_scope,tr,validation
+market listemden karabiberi çıkar,out_of_scope,tr,validation
+son çalınan şarkıyı kaldır,out_of_scope,tr,validation
+benim sağlık planım,out_of_scope,tr,validation
+biraz sushi ihtiyacım var en yakını hangisi,out_of_scope,tr,validation
+bu gece yemek festivali nerede,out_of_scope,tr,validation
+boğaziçindeki iyi bisikletçiler,out_of_scope,tr,validation
+olly yakınımdaki restoranlar neler,out_of_scope,tr,validation
+start a vacuum cleaner,out_of_scope,en,test
+run coffee maker,out_of_scope,en,test
+call the nearest thai restaurant with delivery,out_of_scope,en,test
+my vacuum cleaner should start between ten to eleven am everyday,out_of_scope,en,test
+please activate my coffee pot for me,out_of_scope,en,test
+please power down,out_of_scope,en,test
+turn the kitchen lights off,out_of_scope,en,test
+prepare coffee now,out_of_scope,en,test
+alexa please turn down the lights in the house,out_of_scope,en,test
+siri please turn the lights off in the bathroom,out_of_scope,en,test
+put on the vacuum on now and clean the living room,out_of_scope,en,test
+tell me some best tourist places to visit in america,out_of_scope,en,test
+check my to do list,out_of_scope,en,test
+take out the milk from the shopping list,out_of_scope,en,test
+get rid of tax list from nineteen ninety,out_of_scope,en,test
+any cultural events in california,out_of_scope,en,test
+what gun shows are in tulsa,out_of_scope,en,test
+show me reviews of my nearest location food court,out_of_scope,en,test
+is there a food festival in the area,out_of_scope,en,test
+elektrik süpürgesini çalıştır,out_of_scope,tr,test
+kahve makinesini çalıştır,out_of_scope,tr,test
+teslimat yapan en yakın tayland restoranını ara,out_of_scope,tr,test
+elektrikli süpürgem her gün sabah on ile on bir arasında başlamalı,out_of_scope,tr,test
+lütfen cezvemi benim için çalıştır,out_of_scope,tr,test
+lütfen gücü kapat,out_of_scope,tr,test
+mutfak ışıklarını kapat,out_of_scope,tr,test
+şimdi kahve hazırla,out_of_scope,tr,test
+alexa evdeki ışıkları kapat lütfen,out_of_scope,tr,test
+siri lütfen banyodaki ışıkları kapat,out_of_scope,tr,test
+elektrikli süpürgeyi şimdi aç ve oturma odasını temizle,out_of_scope,tr,test
+bana amerikada ziyaret edilecek en iyi turistik yerlerden bazılarını söyle,out_of_scope,tr,test
+yapılacaklar listemi kontrol et,out_of_scope,tr,test
+sütü alışveriş listesinden çıkar,out_of_scope,tr,test
+bin dokuz yüz doksan vergi listesinden kurtul,out_of_scope,tr,test
+istanbuldaki kültürel etkinlikler,out_of_scope,tr,test
+afyon 'da hangi silah gösterisi var,out_of_scope,tr,test
+bana en yakın konumdaki kebapçının yorumlarını göster,out_of_scope,tr,test
+civarda yemek festivali var mı,out_of_scope,tr,test
