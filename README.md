@@ -104,3 +104,49 @@ The INT8 quantized student is smaller than the
 ## AI Usage
 
 AI tools assisted with implementation, debugging, and documentation. The final presentation will disclose the tools used and their roles.
+
+## Training and Reproducibility
+
+The original training and evaluation scripts are provided in `src/`.
+
+The verified bilingual dataset is available at `dataset/model_dataset_verified.csv`. Training scripts expect it at `data/model_dataset_verified.csv`.
+
+### Preparing the Dataset
+
+From the project root, run:
+
+```powershell
+New-Item -ItemType Directory -Path .\data -Force
+Copy-Item .\dataset\model_dataset_verified.csv .\data\model_dataset_verified.csv
+```
+
+### Training Sequence
+
+The following commands describe the model-training workflow:
+
+```powershell
+python src/train_rule_baseline.py
+python src/train_classical_baseline.py
+python src/train_feedforward.py
+python src/train_multilingual_bert.py
+python src/train_distilled_student.py
+python src/quantize_distilled_student.py
+python src/validate_quantized_student.py
+```
+
+The feedforward model uses `embeddings/bilingual_compact_vectors.npz`, which is included in the downloadable inference artifacts on Hugging Face. The original extraction script, `src/extract_fasttext_vectors.py`, uses pretrained English and Turkish aligned fastText `.vec` files. These large source embedding files are not included in the GitHub repository.
+
+The distilled student requires the fine-tuned multilingual BERT teacher checkpoint. The INT8 quantization step requires the trained distilled student checkpoint.
+
+### Reproducing the Evaluation
+
+The original evaluation and benchmark scripts are:
+
+```powershell
+python src/evaluate_final_test.py
+python src/benchmark_cpu_latency.py
+```
+
+Published evaluation results are available in `results/`.
+
+**Reproducibility note:** The application and all six inference models were successfully tested in a fresh GitHub clone. The full training sequence has not been independently rerun from scratch. Training may require downloading pretrained models, obtaining the compact embeddings, and additional computation. Reported results are from the original completed experiments.
