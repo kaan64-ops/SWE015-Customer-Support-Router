@@ -45,7 +45,9 @@ Clone the repository and open its root folder.
 
 Create a virtual environment:
 
-`py -3.12 -m venv .venv`
+Install Python 3.12 first and ensure it is available from your terminal. On Windows, py -3.12 -m venv .venv is an alternative when the Python launcher is installed.
+
+`python -m venv .venv`
 
 Activate it in PowerShell:
 
